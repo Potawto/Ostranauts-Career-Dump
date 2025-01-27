@@ -7,6 +7,7 @@
 	* Condition: `TUpAge=1.0x1`
 	* Condition: `TUpIsImprisoned=1.0x1`
 	* Condition: `TDnEncHeroFailChance=1.0x1`
+	* Next: `CGEncImprisoned`
 
 * **RISK: Be A Hero (Unarmed Melee)** `CGEncCrackdownBeAHeroSuccess`
 
@@ -249,6 +250,7 @@
 	* Condition: `TUpAge=1.0x1`
 	* Condition: `TUpIsImprisoned=1.0x1`
 	* Condition: `TDnEncStealFailChance=1.0x1`
+	* Next: `CGEncImprisoned`
 
 * **RISK: Take It For Yourself (Patient)** `CGEncRareSalvageTakeItForYourselfSuccess`
 
@@ -327,6 +329,7 @@
 	* Condition: `TUpIsImpatient=0.2x1.0`
 	* Condition: `TUpIsStrong=1.0x1`
 	* $246.00
+	* Next: `CGEncImprisoned`
 
 * **Pick their Pocket** `CGEncRichSchmuckPickpocket`
 
@@ -372,6 +375,7 @@
 	* Condition: `TUpAge=1.0x1`
 	* Condition: `TUpIsImprisoned=1.0x1`
 	* Condition: `TDnEncShadyDealFailChance=1.0x1`
+	* Next: `CGEncImprisoned`
 
 * **RISK: Join the Scheme (Street Smarts)** `CGEncShadyDealJoinSuccess`
 
